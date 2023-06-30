@@ -1,7 +1,7 @@
 # 2023.1.DW2A4
 Repositório para o projeto da disciplina de 2023.1 - DW2A4 - do IFSP 
 
-Nalbert Lucas SP3070051  <nalbert.lucas@aluno.ifsp.edu.br>  \
+Aluno: Nalbert Lucas SP3070051  <nalbert.lucas@aluno.ifsp.edu.br>  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
@@ -14,4 +14,4 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
 - Mudança de layout (favicon e cores - container, botões, tarefas)
-- Adição de funcionalidade (validação do nome da tarefa para recusa entrada vazia)
+- Adição de funcionalidade (validação do nome da tarefa para recusar entrada vazia)
