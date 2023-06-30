@@ -10,7 +10,7 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 - Etapa 3 - Escrita das funcionalidades
 - Etapa 4 - Customização do layout
 - Etapa 5 - Testes
-- Etapa 6 - Commit 
+- Etapa 6 - Commits
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
 - Mudança de layout (favicon e cores - container, botões, tarefas)
